@@ -34,3 +34,12 @@ Getting Started
 
 
 
+If you'd like to contribute, you can send Bitcoin to the following address:
+
+🟢 Bitcoin Address:
+
+bc1qqx2asqpelkh0trqhd44qgx9xsklnw0pu3n559u
+
+Every contribution—big or small—is hugely appreciated! 😊
+
+Thank you for supporting Bitcoin Messaging App. Let's build something great together! 
