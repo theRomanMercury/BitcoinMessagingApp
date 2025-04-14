@@ -1,0 +1,17 @@
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\BitcoinMessagingApp.exe
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\BitcoinMessagingApp.deps.json
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\BitcoinMessagingApp.runtimeconfig.json
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\BitcoinMessagingApp.dll
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\BitcoinMessagingApp.pdb
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.csproj.AssemblyReference.cache
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.AssemblyInfoInputs.cache
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.AssemblyInfo.cs
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinM.097A8615.Up2Date
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.dll
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\refint\BitcoinMessagingApp.dll
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.pdb
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\BitcoinMessagingApp.genruntimeconfig.cache
+C:\Users\srgir\BitcoinMessagingApp\obj\Release\net9.0-windows\ref\BitcoinMessagingApp.dll

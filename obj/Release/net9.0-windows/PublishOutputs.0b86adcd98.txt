@@ -1,0 +1,6 @@
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\publish\BitcoinMessagingApp.exe
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\publish\BitcoinMessagingApp.dll
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\publish\BitcoinMessagingApp.deps.json
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\publish\BitcoinMessagingApp.runtimeconfig.json
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\publish\BitcoinMessagingApp.pdb
+C:\Users\srgir\BitcoinMessagingApp\bin\Release\net9.0-windows\publish\Newtonsoft.Json.dll
