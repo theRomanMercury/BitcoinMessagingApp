@@ -25,7 +25,7 @@ Requirements
 
 Getting Started
 
-- Clone the repository:git clone https://github.com/theRomanMercury/bitcoin-messaging-app](https://github.com/theRomanMercury/BitcoinMessagingApp.git
+- Clone the repository:git clone https://github.com/theRomanMercury/BitcoinMessagingApp.git
 
 - Build the application:dotnet build
 
